@@ -1,0 +1,161 @@
+
+/**************************
+   CONTACT PAGE:
+***************************/
+body{
+	background: #777;
+	display: inline;
+}
+# navbarSupportedContent{
+	background: red;
+}
+. nav-item {
+	color: Green;
+}
+#logo{
+  
+   color: #777;
+   z-index: 99%;
+   width: 100%;
+   margin:10 0 30px;
+   overflow: auto;
+   background:#fff;
+   border-bottom: 2px solid #ccc;
+   font-size: 30px;
+
+}
+/*portfolio nametag*/
+.navbar-default .navbar-brand{
+	color: #fff;
+	font-size: 27px;
+}
+.nav>li{
+
+	background-color: #fff;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+  padding-right: 0;
+  padding-left: 0;
+  }
+.customDiv{
+	margin: 3px;
+	min-height: 300px;
+	background-color:silver;
+	text-align: center;
+	font-size: large
+}
+.navbar-header{
+	background-color: #4aaaa5;
+	height: 80px;
+	font-size: 30px;
+	color: #000;
+	font-weight: bold;
+	margin-right:10px;
+	padding:5px;
+}
+
+.navbar-default .nav{
+	background-color: #fff;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+.active{
+	background-color: #fff;
+	color: white;
+	margin-left: 10px 10px 0 0;
+}
+	
+.navbar-nav .nav{
+	background-color: #fff;
+	color:#ccc;
+}
+.navbar-default{
+	background-color: #fff;
+}
+
+.media-left{
+	background-color: #fff;
+	margin:50px;
+	padding-right: 25px;
+	}
+
+	/* portfolio 5 pictures   */
+.jumbotron{
+	margin:96px 10px 25px 184px;
+	background-color: #fff;
+	padding: 5px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    clear:right;
+
+}
+/*contact info*/
+.jumbotron .contact-info{
+
+	clear:both;
+	height:400px;
+	width: 170px;
+
+}
+/*unorderd list*/
+#contact-id, li {
+	list-style: none;
+
+}
+#contact-form button{
+	background-color: #4aaaa5;
+	color: #fff;
+	font-weight: bold;
+}
+
+.media-body .media-Heading{
+	margin: 100px;
+}
+.Asside {
+     clear: left;
+}
+/*contact-info*/
+.media
+.media-left
+.Asside1{
+	clear: left;
+	width: 230px;
+	height: 155px;
+	text-align: center;
+
+}
+
+
+h1, h2{
+	color: white;
+}
+h2 {
+
+	color: #4aaaa5;
+	font-weight: bold;
+
+}
+
+/********************************
+Portfolio
+********************************/
+/*image*/
+.img{
+	margin: 5px;
+}
+.footer{
+	
+	clear: both;
+	bottom: 0;
+	width: 100%
+	height:80px;
+	padding: 14px 0;
+	background-color: #666;
+	color: white;
+	border-top: 8px solid #4aaaa5;
+	text-align: center;
+	
+}
